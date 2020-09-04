@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599903409921",
+    "firebase_url": "https://timecapsule-98a93.firebaseio.com",
+    "project_id": "timecapsule-98a93",
+    "storage_bucket": "timecapsule-98a93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599903409921:android:140fdac5d64266254ded00",
+        "android_client_info": {
+          "package_name": "infiknightians.timecapsule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599903409921-qe0hednofb194gvn7all2u2vv8eejmf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "infiknightians.timecapsule",
+            "certificate_hash": "9cab2cd7c6e9e266ddf8058b47c23254beb91928"
+          }
+        },
+        {
+          "client_id": "599903409921-4nohql1lvrqq9sg0fvv4a3d4vio7mtje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_8rAVlX79yAoOXw-AWDrdR46_0vPsmgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599903409921-4nohql1lvrqq9sg0fvv4a3d4vio7mtje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
